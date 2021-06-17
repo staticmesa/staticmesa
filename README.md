@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @staticmesa.
+- 👀 I’m interested in the United Kingdom.
+- 🌱 I’m currently learning Xamarin & React.
+- 💞️ I’m looking to collaborate on cross platform mobile apps.
